@@ -1,0 +1,1150 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yml_catalog date="2018-03-20 20:05">
+	<shop>
+		<name>АКАДЕМИЯ-Т</name>
+		<company>АКАДЕМИЯ-Т ООО</company>
+		<url>https://ac-t.ru/</url>
+		<currencies>
+			<currency id="RUR" rate="1" plus="0"/>
+		</currencies>
+		<categories>
+			<category id="1">Спортивное питание</category>
+		</categories>
+		<offers>
+			<offer id="4607055681770" available="true">
+				<oldprice>1700</oldprice>
+				<price>1700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Аминокислотный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/ForestBerry_site.0e71161ef0638bd93be3625872c2cbe9.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>FiT ВСAА 500 грамм, лесные ягоды</name>
+				<vendorCode>4607055681770</vendorCode>
+				<description>FIT BCAA состоит из незаменимых аминокислот с разветвленной цепью L-лейцин, L-валин, L-изолейцин. Идеальный продукт для восполнения незаменимых аминокислот в рационе питания.
+FIT BCAA способствует: Уменьшению чувства усталости; Ускорению процессов восстановления после высоких физических нагрузок, при травмах или перенапряжениях; Увеличению набора мышечной массы; Замедлению катаболических процессов в мышечной ткани. FIT BCAA подходит для применения как в тренировочном, так и в соревновательном цикле. Продукт полностью натурален, не содержит компонентов, подвергнутых генетической модификации, а также допинговых средств и/или их метаболитов.
+FIT BCAA способствует:
+Уменьшению чувства усталости;
+Ускорению процессов восстановления после высоких физических нагрузок, при травмах или перенапряжениях;
+Увеличению набора мышечной массы;
+Замедлению катаболических процессов в мышечной ткани.
+FIT BCAA подходит для применения как в тренировочном, так и в соревновательном цикле. Продукт полностью натурален, не содержит компонентов, подвергнутых генетической модификации, а также допинговых средств и/или их метаболитов.
+СПОСОБ ПРИГОТОВЛЕНИЯ И ПРИМЕНЕНИЯ: При интенсивных занятиях спортом следует принимать по одной мерной ложке (5г) продукта за 30 минут до начала тренировки и по одной мерной ложке (5г) продукта после окончания тренировки предварительно растворив в 100-200 мл воды.
+Рекомендуемая продолжительность приема в зависимости от интенсивности нагрузок, массы тела, возраста и уровня подготовки в соответствии с программой тренировок по рекомендации специалиста.
+
+</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681770</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680469" available="true">
+				<oldprice>1250</oldprice>
+				<price>1250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Enriched_Protein_750_Vanil.58894e9e2fccdec9f1cd269a6de4a305.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ПРОТЕИН SPORTEIN®Enriched PROTEIN (750 гр.) ваниль</name>
+				<vendorCode>4607055680469</vendorCode>
+				<description>SPORTEIN Enriched Protein - инновационная анаболическая формула для наращивания сухой мышечной массы и ускоренного восстановления, содержащая качественный ультрафильтрационный сывороточный белок, с повышенным содержанием максимально биодоступных сывороточных пептидов,уникальный витаминно-минеральный премикс, растворимые пребиотические волокна Floracia™, а также повышенное количество Аргинина и Глютамина.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680469</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680483" available="true">
+				<oldprice>1250</oldprice>
+				<price>1250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Enriched_Protein_750_Klubnika.58894e9e2fccdec9f1cd269a6de4a305.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ПРОТЕИН SPORTEIN®Enriched PROTEIN (750 гр.) клубника</name>
+				<vendorCode>4607055680483</vendorCode>
+				<description>SPORTEIN Enriched Protein - инновационная анаболическая формула для наращивания сухой мышечной массы и ускоренного восстановления, содержащая качественный ультрафильтрационный сывороточный белок, с повышенным содержанием максимально биодоступных сывороточных пептидов,уникальный витаминно-минеральный премикс, растворимые пребиотические волокна Floracia™, а также повышенное количество Аргинина и Глютамина.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680483</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680506" available="true">
+				<oldprice>1250</oldprice>
+				<price>1250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Enriched_Protein_750_Choko.58894e9e2fccdec9f1cd269a6de4a305.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ПРОТЕИН SPORTEIN®Enriched PROTEIN (750 гр.) шоколад</name>
+				<vendorCode>4607055680506</vendorCode>
+				<description>SPORTEIN Enriched Protein - инновационная анаболическая формула для наращивания сухой мышечной массы и ускоренного восстановления, содержащая качественный ультрафильтрационный сывороточный белок, с повышенным содержанием максимально биодоступных сывороточных пептидов,уникальный витаминно-минеральный премикс, растворимые пребиотические волокна Floracia™, а также повышенное количество Аргинина и Глютамина.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680506</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681596" available="true">
+				<oldprice>1150</oldprice>
+				<price>1150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_protein_vanil-750.ec416c308e6b8c7ce079c34457765fcd.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ФитПротеин банка (750 гр.) ваниль (FITNESS FORMULA)</name>
+				<vendorCode>4607055681596</vendorCode>
+				<description>«FIT WHEY PROTEIN» разработан специалистами в области спортивной нутрициологии для людей, занимающихся фитнесом и ведущих активный образ жизни. Точно сбалансированный состав включает в себя важнейшие анаболические факторы роста, комплементарное сочетание которых обеспечивает максимально оптимальные условия для регенерации и прогрессирования мышечной массы и силовых показателей.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681596</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681602" available="true">
+				<oldprice>1150</oldprice>
+				<price>1150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_protein_straw-750.ec416c308e6b8c7ce079c34457765fcd.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ФитПротеин банка (750 гр.) клубника (FITNESS FORMULA)</name>
+				<vendorCode>4607055681602</vendorCode>
+				<description>«FIT WHEY PROTEIN» разработан специалистами в области спортивной нутрициологии для людей, занимающихся фитнесом и ведущих активный образ жизни. Точно сбалансированный состав включает в себя важнейшие анаболические факторы роста, комплементарное сочетание которых обеспечивает максимально оптимальные условия для регенерации и прогрессирования мышечной массы и силовых показателей.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681602</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681619" available="true">
+				<oldprice>1150</oldprice>
+				<price>1150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_protein_shoko-750.3808e33c191fe2c3724c80eb3e7e87c5.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ФитПротеин банка (750 гр.) шоколад (FITNESS FORMULA)</name>
+				<vendorCode>4607055681619</vendorCode>
+				<description>«FIT WHEY PROTEIN» разработан специалистами в области спортивной нутрициологии для людей, занимающихся фитнесом и ведущих активный образ жизни. Точно сбалансированный состав включает в себя важнейшие анаболические факторы роста, комплементарное сочетание которых обеспечивает максимально оптимальные условия для регенерации и прогрессирования мышечной массы и силовых показателей.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681619</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680544" available="true">
+				<oldprice>920</oldprice>
+				<price>920</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Gainer_750_Vanil.631b68541fe6486d962075650dd81b66.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ГЕЙНЕР SPORTEIN®  GAINER  (750 гр.) ваниль</name>
+				<vendorCode>4607055680544</vendorCode>
+				<description>SPORTEIN® GAINER - совершенная формула, которая включает в себя сбалансированный белковый комплекс, простые и сложные углеводы и специально разработанный витаминно-минеральный комплекс. Продукт также дополнительно обогащен глютамином, креатином, природным концентратом биологических стимуляторов - Колострум и пребиотическим волокном - Floracia™</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680544</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680551" available="true">
+				<oldprice>920</oldprice>
+				<price>920</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Gainer_750_Klubnika.631b68541fe6486d962075650dd81b66.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ГЕЙНЕР SPORTEIN®  GAINER  (750 гр.) клубника</name>
+				<vendorCode>4607055680551</vendorCode>
+				<description>SPORTEIN® GAINER - совершенная формула, которая включает в себя сбалансированный белковый комплекс, простые и сложные углеводы и специально разработанный витаминно-минеральный комплекс. Продукт также дополнительно обогащен глютамином, креатином, природным концентратом биологических стимуляторов - Колострум и пребиотическим волокном - Floracia™</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680551</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680568" available="true">
+				<oldprice>920</oldprice>
+				<price>920</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SPORTEIN_Gainer_750_Choko.3091076d2969c62ea764b3895e81bac3.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ГЕЙНЕР SPORTEIN®  GAINER  (750 гр.) шоколад</name>
+				<vendorCode>4607055680568</vendorCode>
+				<description>SPORTEIN® GAINER - совершенная формула, которая включает в себя сбалансированный белковый комплекс, простые и сложные углеводы и специально разработанный витаминно-минеральный комплекс. Продукт также дополнительно обогащен глютамином, креатином, природным концентратом биологических стимуляторов - Колострум и пребиотическим волокном - Floracia™</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680568</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681626" available="true">
+				<oldprice>690</oldprice>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_gainer_vanil-750.2386d2378f8188bb5bee693e1fde6cf2.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ФитГейнер банка (750 г.) ваниль (FITNESS FORMULA)</name>
+				<vendorCode>4607055681626</vendorCode>
+				<description>«FIT GAINER» включает в себя сбалансированный белковый комплекс, углеводы с пищевыми волокнами (в сумме дающие быструю и долговременную энергию), креатин и папаин (фермент который улучшает усвояемость белка), а также специально разработанный витаминно-минеральный профиль, оптимизирующий энергетику, усвоение и обмен веществ.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681626</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681633" available="true">
+				<oldprice>690</oldprice>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_gainer_straw-750.c51fe7857376135b75d9222be996c93b.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ФитГейнер банка (750 г.) клубника (FITNESS FORMULA)</name>
+				<vendorCode>4607055681633</vendorCode>
+				<description>«FIT GAINER» включает в себя сбалансированный белковый комплекс, углеводы с пищевыми волокнами (в сумме дающие быструю и долговременную энергию), креатин и папаин (фермент который улучшает усвояемость белка), а также специально разработанный витаминно-минеральный профиль, оптимизирующий энергетику, усвоение и обмен веществ.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681633</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681640" available="true">
+				<oldprice>690</oldprice>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_gainer_shoko-750.c51fe7857376135b75d9222be996c93b.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ФитГейнер банка (750 г.) шоколад (FITNESS FORMULA)</name>
+				<vendorCode>4607055681640</vendorCode>
+				<description>«FIT GAINER» включает в себя сбалансированный белковый комплекс, углеводы с пищевыми волокнами (в сумме дающие быструю и долговременную энергию), креатин и папаин (фермент который улучшает усвояемость белка), а также специально разработанный витаминно-минеральный профиль, оптимизирующий энергетику, усвоение и обмен веществ.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681640</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680575" available="true">
+				<oldprice>1200</oldprice>
+				<price>1200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Изотоник</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/izy_lemon_small.eab2e99560dcd014d2b3aca74b99982f.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ИЗОТОНИК ISOTONIC Sea Energy 1200 гр. Лимон</name>
+				<vendorCode>4607055680575</vendorCode>
+				<description>ISOTONIC Sea Energy® - изотоническая формула нового поколения, включающая морскую розовую соль, комплекс простых и сложных углеводов, витаминный премикс, эффективный жиросжигатель L-карнитини натуральное пребиотическое волокно Floracia™. Эффективно утоляет жажду, обеспечивает организм дополнительной энергией, является прекрасным источником витаминов и минеральных солей.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680575</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680599" available="true">
+				<oldprice>1200</oldprice>
+				<price>1200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Изотоник</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/izy_apple_small.960b2d39df64ac60c3a53c075ab7d743.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ИЗОТОНИК ISOTONIC Sea Energy 1200 гр. Яблоко</name>
+				<vendorCode>4607055680599</vendorCode>
+				<description>ISOTONIC Sea Energy® - изотоническая формула нового поколения, включающая морскую розовую соль, комплекс простых и сложных углеводов, витаминный премикс, эффективный жиросжигатель L-карнитини натуральное пребиотическое волокно Floracia™. Эффективно утоляет жажду, обеспечивает организм дополнительной энергией, является прекрасным источником витаминов и минеральных солей.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680599</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681138" available="true">
+				<oldprice>520</oldprice>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Антиоксидант</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/antioxidant-black.5e86df5fb71522fd35c6855946da2197.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ANTIOXIDANT Synergy 7 60 капс.</name>
+				<vendorCode>4607055681138</vendorCode>
+				<description>ANTIOXIDANT Synergy 7® - уникальный синергичный комплекс, состоящий из мощнейших природных антиоксидантов - L-карнозина и дигидрокверцетина, активность которых усилена витаминами А, С, Е, цинком и органическим источником селена - селенопираном. Комплекс обеспечивает поддержку естественной защитной системы организма, препятствует образованию новых свободных радикалов и нейтрализует уже имеющиеся. </description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681138</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681169" available="true">
+				<oldprice>700</oldprice>
+				<price>700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Антиоксидант</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Omega3d-black.524a0823b4f90fb0a196635410945429.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>OMEGA-3D 90 гел. капс.</name>
+				<vendorCode>4607055681169</vendorCode>
+				<description>OMEGA-3D– это инновационная ФОРМУЛА ТРОЙНОГО ДЕЙСТВИЯ. Уникальная комбинация полиненасыщенных жирных кислот Омега-3, антиоксиданта Коэнзим Q10 и аминокислоты L-карнитин обеспечивает продукту мощные синергические свойства и реализует поступление полезных жиров, защиту жиров от окислителей и полноценное усвоение в клетках.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681169</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681541" available="true">
+				<oldprice>600</oldprice>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Антиоксидант</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit_omega.3808e33c191fe2c3724c80eb3e7e87c5.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Фит Омега 3-6-9 (90 caps)  (FITNESS FORMULA)</name>
+				<vendorCode>4607055681541</vendorCode>
+				<description>FIT OMEGA 3-6-9 - высокотехнологичная формула полиненасыщенных жирных кислот, защищенных мощнейшим природным антиоксидантом.
+
+Соотношение незаменимых жирных кислот обеспечивает комплексный эффект синергии.
+
+С помощью FIT OMEGA 3-6-9 вы сможете восполнить суточную потребность во всех незаменимых жирных кислотах.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681541</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681251" available="true">
+				<oldprice>990</oldprice>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Защита суставов и связок</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SUSTAMIN_220ml.9f981bd4337b30dca5ab1a17a6ab0b34.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>SUSTAMIN®  120 caps</name>
+				<vendorCode>4607055681251</vendorCode>
+				<description>SUSTAMIN® - сбалансированный натуральный продукт нового поколения для суставов и связок.
+
+Спортивное питание SUSTAMIN® содержит уникальную комбинацию хондропротективных веществ, обладающих взаимоусиливающим эффектом и оказывающим комплексное корректирующее действие на метаболизм хрящевой и костной ткани. Способствует восстановлению элементов опорно-двигательного аппарата после различных травм.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681251</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681152" available="true">
+				<oldprice>1450</oldprice>
+				<price>1450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Защита суставов и связок</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/sustamin-180.d0b4f7b13a6210df33238a890fc2ee61.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>SUSTAMIN®  180 caps</name>
+				<vendorCode>4607055681152</vendorCode>
+				<description>SUSTAMIN® - сбалансированный натуральный продукт нового поколения для суставов и связок.
+
+Спортивное питание SUSTAMIN® содержит уникальную комбинацию хондропротективных веществ, обладающих взаимоусиливающим эффектом и оказывающим комплексное корректирующее действие на метаболизм хрящевой и костной ткани. Способствует восстановлению элементов опорно-двигательного аппарата после различных травм.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681152</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680445" available="true">
+				<oldprice>1100</oldprice>
+				<price>1100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Защита суставов и связок</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Sustamin-forte-120caps.9f981bd4337b30dca5ab1a17a6ab0b34.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>SUSTAMIN FORTE №120  caps</name>
+				<vendorCode>4607055680445</vendorCode>
+				<description>СУСТАМИН® ФОРТЕ - сбалансированный натуральный продукт нового поколения для профилактики и лечения заболеваний суставно-связочного аппарата. Содержит уникальную комбинацию хондропротективных веществ, обладающих взаимоусиливающим эффектом и оказывающим комплексное корректирующее действие на метаболизм хрящевой и костной ткани. Способствует восстановлению элементов опорно-двигательного аппарата после различных травм.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680445</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681244" available="true">
+				<oldprice>1600</oldprice>
+				<price>1600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Защита суставов и связок</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Sustamin-forte%28180caps%29.d0b4f7b13a6210df33238a890fc2ee61.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>SUSTAMIN FORTE №180  caps</name>
+				<vendorCode>4607055681244</vendorCode>
+				<description>СУСТАМИН® ФОРТЕ - сбалансированный натуральный продукт нового поколения для профилактики и лечения заболеваний суставно-связочного аппарата. Содержит уникальную комбинацию хондропротективных веществ, обладающих взаимоусиливающим эффектом и оказывающим комплексное корректирующее действие на метаболизм хрящевой и костной ткани. Способствует восстановлению элементов опорно-двигательного аппарата после различных травм.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681244</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681220" available="true">
+				<oldprice>490</oldprice>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Витамины</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/gemoton-90-black.72e40e73b9d48999ca6151051aac612b.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>GEMOTON®  90 капс.</name>
+				<vendorCode>4607055681220</vendorCode>
+				<description>GEMOTON® - комплексный натуральный продукт для профилактики и лечения железодефицитных состояний и анемии. Содержит уникальную комбинацию антианемических компонентов, обладающих синергическим эффектом.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681220</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681114" available="true">
+				<oldprice>460</oldprice>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Креатин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/creatine-120-black.2cbdc1b1dcbd0efe0f2e13eb51c711de.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>CREATINE Power Rush 3000 120 капс.</name>
+				<vendorCode>4607055681114</vendorCode>
+				<description>СREATINE Power Rush 3000 - уникальный комплекс на основе креатина, содержащий чистый моногидрат креатина высочайшего качества с транспортной системой, включающей уникальный комплекс L-аргинин + Vinitrox, L-глютамин и липоевую кислоту, которые увеличивают естественную выработку креатина организмом и способствуют лучшему усвоению креатина.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681114</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681121" available="true">
+				<oldprice>1100</oldprice>
+				<price>1100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Креатин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/CREATINE_550ml_300caps.df2361ba26bef543b03e47b60839eccf.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>CREATINE Power Rush 3000 300 капс.</name>
+				<vendorCode>4607055681121</vendorCode>
+				<description>СREATINE Power Rush 3000 - уникальный комплекс на основе креатина, содержащий чистый моногидрат креатина высочайшего качества с транспортной системой, включающей уникальный комплекс L-аргинин + Vinitrox, L-глютамин и липоевую кислоту, которые увеличивают естественную выработку креатина организмом и способствуют лучшему усвоению креатина.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681121</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681107" available="true">
+				<oldprice>720</oldprice>
+				<price>720</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Жиросжигатель</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/L-CARNITINE_90.f8650f78313547e31dda75b5cae27416.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>L-CARNITINE Weight Control  90 капс.</name>
+				<vendorCode>4607055681107</vendorCode>
+				<description>L-CARNITINE Weight Control - уникальный синергичный комплекс, эффективно повышает энергоснабжение, сжигает жир, сокращает время восстановления после тренировки, сохраняет и укрепляет мышечную ткань.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681107</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681565" available="true">
+				<oldprice>1120</oldprice>
+				<price>1120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Жиросжигатель</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT-L-Carnitine_visual.0881f9ef587f3927c026b3ff817ad77a.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>FIT L-СARNITINE 1800 20 amp x 25 ml.</name>
+				<vendorCode>4607055681565</vendorCode>
+				<description>«FIT L-СARNITINE 1800» предназначен для усиления метаболических процессов в организме спортсмена, быстрого расщепления жирных кислот и удаления излишней влаги. Благодаря уникальному сочетанию L-карнитина (Carnipure ТМ), экстракта плодов опунции ficus-indica («Cacti-Nea»TM) и растворимых пищевых волокон (Fibregum TM) действие продукта направлено сразу на 3 основных ресурса — реактивность организма, антиоксидантная защита клеток и стабилизация работы желудочно-кишечного тракта.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681565</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681589" available="true">
+				<oldprice>1250</oldprice>
+				<price>1250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Жиросжигатель</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/IdealBody-L-Carnitine.91c4bd79ce35628fcd4dfaf8bd1d6f35.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Ideal Вody 20 amp x 25 ml.</name>
+				<vendorCode>4607055681589</vendorCode>
+				<description>Идеал Боди - инновационный продукт для усовершенствования силуэта и придания энергии организму. Препарат способствует похудению, благодаря уникальному сочетанию  экстракта плодов опунции ficus-indica («Cacti-Nea»TM), Л-Карнитина (Carnipure TM) и растворимых пищевых волокон (Fibregum TM).</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681589</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680261" available="true">
+				<oldprice>660</oldprice>
+				<price>660</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Повышение выносливости</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/vinitro-black.b906860eb814864bf7fdd8bf2d59432e.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ViNitro 120 капс.</name>
+				<vendorCode>4607055680261</vendorCode>
+				<description>ViNitro® - эффективный восстановительный комплекс, включающий научно-обоснованную уникальную композицию Vinitrox и аминокислоту L-аргинин, обеспечивающих расширение сосудов и увеличение циркуляции крови в организме.
+
+Движение крови по сосудам улучшается и обеспечивается достаточное поступление необходимых веществ к органам. Благодаря употреблению ViNitro® повышается эффективность тренировки.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680261</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681176" available="true">
+				<oldprice>480</oldprice>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Повышение уровня тестостерона</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/TestoBoost_160ml.a18ad866be837bcf05fd88c1d586c47b.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>TestoBoost 90 капс.</name>
+				<vendorCode>4607055681176</vendorCode>
+				<description>TestoBoost® – эффективный анаболический продукт для повышения уровня тестостерона и инсулиноподобного фактора роста. Сочетание основных компонентов эффективно снижает отрицательные последствия повышенных физических нагрузок, ускоряет адаптацию организма к нагрузкам и восстановление после них.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681176</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681183" available="true">
+				<oldprice>920</oldprice>
+				<price>920</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Повышение уровня тестостерона</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/testoboost_180.a18ad866be837bcf05fd88c1d586c47b.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>TestoBoost 180 капс.</name>
+				<vendorCode>4607055681183</vendorCode>
+				<description>TestoBoost® – эффективный анаболический продукт для повышения уровня тестостерона и инсулиноподобного фактора роста. Сочетание основных компонентов эффективно снижает отрицательные последствия повышенных физических нагрузок, ускоряет адаптацию организма к нагрузкам и восстановление после них.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681183</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681190" available="true">
+				<oldprice>580</oldprice>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Повышение уровня тестостерона</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Ecdysterone_160ml.b43d2e9820e6036cd731bb858ed29968.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Ecdysterone 120 капс.</name>
+				<vendorCode>4607055681190</vendorCode>
+				<description>Ecdysterone – усовершенствованная форма препарата, полученного из корневищ Левзеи Сафроловидной (Leuzea carthamoides), способствующая выработке тестостерона, увеличивающая рост мышечной массы, позволяющая повысить силу и выносливость. В состав препарата входят витамины группы В, которые дополняют и активируют действие экдистерона, усиливают синтез аминокислот, гемоглобина и ферментов.
+
+Эксклюзивность препарата Ecdysterone состоит в том, то в его состав входит уникальная смесь Vinitrox®, включающая в себя экстракты винограда и яблока.которая способствует быстрому восстановлению сил после физических нагрузок. Ecdysterone разработан профессионалами в своей области и является гарантией качества.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681190</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681206" available="true">
+				<oldprice>1110</oldprice>
+				<price>1110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Повышение уровня тестостерона</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Ecdysterone_220ml.9f92c79684c0b5c92013a5a1ded7cbe0.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Ecdysterone 240 капс.</name>
+				<vendorCode>4607055681206</vendorCode>
+				<description>Ecdysterone – усовершенствованная форма препарата, полученного из корневищ Левзеи Сафроловидной (Leuzea carthamoides), способствующая выработке тестостерона, увеличивающая рост мышечной массы, позволяющая повысить силу и выносливость. В состав препарата входят витамины группы В, которые дополняют и активируют действие экдистерона, усиливают синтез аминокислот, гемоглобина и ферментов.
+
+Эксклюзивность препарата Ecdysterone состоит в том, то в его состав входит уникальная смесь Vinitrox®, включающая в себя экстракты винограда и яблока.которая способствует быстрому восстановлению сил после физических нагрузок. Ecdysterone разработан профессионалами в своей области и является гарантией качества.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681206</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681213" available="true">
+				<oldprice>550</oldprice>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Витамины</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/ViMiLine-60caps-black.5f1141f9b189c6c05a0732d66aaf55ba.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ViMiLine 60 капс.</name>
+				<vendorCode>4607055681213</vendorCode>
+				<description>ViMiLine – это комплекс витаминов и минералов, способствующий улучшению таких физиологических показателей организма, как выносливость, работоспособность, силовой потенциал и иммунитет. В состав ViMiLine входят все необходимые витамины и минералы с учетом новейших исследований в области спортивной медицины.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681213</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4751014202121" available="true">
+				<oldprice>820</oldprice>
+				<price>820</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Повышение выносливости</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/ExtraBeetOx%286x50ml%29.0b0500625f09bc73d3ca3961ff581068.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ExtraBeetOx  6 флаконов</name>
+				<vendorCode>4751014202121</vendorCode>
+				<description>При интенсивных физических нагрузках (бег на длительные дистанции, велогонки, лыжные виды спорта, плавание и др.) основным механизмом в организме спортсмена для обеспечения энергией организма спортсмена является аэробное окисление углеводов. Наиболее значительным фактором, влияющим на работу и выносливость, является кислородное снабжение работающих мышц, поскольку потребление кислорода во время бега поддерживает максимальную скорость окисления углеводов. На основе многолетних исследований инновационной компанией "АКАДЕМИЯ-Т" разработан «ExtraBeetOx», который способствует расширению кровеносных сосудов, обеспечивает повышенную кислородтранспортную функцию, в результате чего, мышцы лучше насыщаются кислородом и значительно увеличивается работоспособность спортсмена.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4751014202121</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681237" available="true">
+				<oldprice>560</oldprice>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Антистресс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/antistress_160ml.e550a360d9911b13ab2904afeb7ca8f8.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ANTISTRESS 60 капс.</name>
+				<vendorCode>4607055681237</vendorCode>
+				<description>Специально подобранные компоненты в составе продукта ANTISTRESS, такие как глицин, 5 - гидрокситриптофан в сочетании с натуральными экстрактами Serenzoтм и Vinitrox® мобилизует внутренние резервы организма, активизируют сердечно-сосудистую и мышечную системы спортсмена, способствуют выработке серотонина и повышают готовность к высоким физическим и психоэмоциональным нагрузкам.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681237</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680049" available="true">
+				<oldprice>800</oldprice>
+				<price>800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Защита печени</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/gepamin-2.78cdc1b10d48dfe64d0442e907a3fc25.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ГЕПАМИН (гранулят) 20 пак.</name>
+				<vendorCode>4607055680049</vendorCode>
+				<description>Гепамин нормализует нарушенный обмен аминокислот и стимулирует образование белковых молекул, регулирует обменные процессы, усиливает обезвреживающую функцию печени, восстанавливает микрофлору толстой кишки, улучшает обменные процессы в нервной ткани.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680049</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680100" available="true">
+				<oldprice>780</oldprice>
+				<price>780</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Защита печени</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/gepamin-1.78cdc1b10d48dfe64d0442e907a3fc25.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ГЕПАМИН  (табл.) 60 табл.</name>
+				<vendorCode>4607055680100</vendorCode>
+				<description>Гепамин нормализует нарушенный обмен аминокислот и стимулирует образование белковых молекул, регулирует обменные процессы, усиливает обезвреживающую функцию печени, восстанавливает микрофлору толстой кишки, улучшает обменные процессы в нервной ткани.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680100</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680308" available="true">
+				<oldprice>600</oldprice>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Пребиотик</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/floracia_new.f5c0ec7afc4082cb6f033bb8935951d2.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Floracia  пребиотик</name>
+				<vendorCode>4607055680308</vendorCode>
+				<description>Флорация® - новая стратегия лечения дисбактериоза, основанная на использовании уникального пищевого волокна и сбалансированного комплекса витаминов и минеральных веществ.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680308</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680391" available="true">
+				<oldprice>1152</oldprice>
+				<price>1152</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Батончики</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/protein_bar_40.c5be9dc81e639cd2ab7eda6294602d95.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>CHAMPIONS HIGH PROTEIN BAR (16 батончиков)</name>
+				<vendorCode>4607055680391</vendorCode>
+				<description>Батончик фруктово-ореховый «Champions High Protein Bar»
+
+Обогащен концентратом сывороточного белка и изолятом соевого белка.
+
+Champions High Protein Bar – вкусный и натуральный батончик, удобный в применении, мощный источник высококачественных протеинов. Диетический продукт для питания спортсменов и любителей активного и здорового образа жизни.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680391</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680407" available="true">
+				<oldprice>1024</oldprice>
+				<price>1024</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Батончики</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/energy_bar_40.9f92c79684c0b5c92013a5a1ded7cbe0.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>CHAMPIONS ENERGY BAR (16 батончиков)</name>
+				<vendorCode>4607055680407</vendorCode>
+				<description>Батончик фруктово-ореховый «Champions Energy Bar»
+
+Обеспечивает энергией за счет природных углеводов.
+
+Champions Energy Bar – энергетические батончики нового поколения, вкусное лакомство, удобные в применении, мощные источники энергии на основе специально подобранной композиции натуральных высококачественных углеводов.
+
+Champions Energy Bar батончики рекомендуются для всех видов физической активности: фитнеса, бега, велосипеда, коньков и роликов, лыж, футбола, аэробных тренажеров – там, где требуется постоянная подпитка энергией.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680407</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680438" available="true">
+				<oldprice>1152</oldprice>
+				<price>1152</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Батончики</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/lcarnitine_bar_40.f8650f78313547e31dda75b5cae27416.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>CHAMPIONS L-CARNITINE BAR (16 батончиков)</name>
+				<vendorCode>4607055680438</vendorCode>
+				<description>Батончик фруктово-ореховый «Champions L-carnitine Bar»
+
+Обогащен L-карнитином торговой марки Carnipure.
+
+Компоненты: виноград сушеный, цитрусовая цедра, абрикос сушеный; ядра ореха миндаля, облатки вафельные (пшеничная мука, картофельный крахмал, растительное масло), кокосовое масло, L-карнитин, эмульгатор (лецитин), антиоксидант (аскорбиновая кислота), ароматизатор идентичный натуральному «Апельсин».</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680438</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055680414" available="true">
+				<oldprice>1024</oldprice>
+				<price>1024</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Батончики</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/helth_bar_40.91c4bd79ce35628fcd4dfaf8bd1d6f35.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>CHAMPIONS HEALTH BAR (16 батончиков)</name>
+				<vendorCode>4607055680414</vendorCode>
+				<description>Батончик фруктово-ореховый «Champions Health Bar»
+
+Обогащен пищевыми волокнами (60% от суточной потребности), что позволит нормализовать работу кишечника и укрепит иммунитет при регулярном потреблении.
+
+Компоненты: сухофрукты: виноград, яблоко, абрикос; пищевые волокна, ядра ореха миндаля, облатки вафельные (пшеничная мука, картофельный крахмал, растительное масло), кокосовое масло, эмульгатор (лецитин), антиоксидант (аскорбиновая кислота), ароматизатор идентичный натуральному «Яблоко».</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055680414</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681046" available="true">
+				<oldprice>860</oldprice>
+				<price>860</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Аминокислотный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/bcaa_180cap.832348d6542c6ee90268e8d1a9a6b058.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>BCAA 6000 СПОРТАМИН®  180 капс. (144гр.)</name>
+				<vendorCode>4607055681046</vendorCode>
+				<description>SPORTAMIN® ВСАА 6000 -уникальный натуральный сбалансированный продукт для спортивного питания, не имеющий аналогов по своему составу, т.к. он сочетает в себе три ценнейших компонента: ВСАА, Аргинин и Floracia™. Вместе они оказывают синергический эффект, способный существенно минимизировать отрицательное воздействие на организм последствий тяжелых физических нагрузок.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681046</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681060" available="true">
+				<oldprice>1300</oldprice>
+				<price>1300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Аминокислотный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BCAA_550ml_300capsl.dd161b08dd99478f83e7a5673e0d3638.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>BCAA 6000 СПОРТАМИН®  300 капс. (240гр.)</name>
+				<vendorCode>4607055681060</vendorCode>
+				<description>SPORTAMIN® ВСАА 6000 -уникальный натуральный сбалансированный продукт для спортивного питания, не имеющий аналогов по своему составу, т.к. он сочетает в себе три ценнейших компонента: ВСАА, Аргинин и Floracia™. Вместе они оказывают синергический эффект, способный существенно минимизировать отрицательное воздействие на организм последствий тяжелых физических нагрузок.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681060</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681053" available="true">
+				<oldprice>810</oldprice>
+				<price>810</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Аминокислотный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BCAA_220ml.eac3cfaa65773652ce4b63785a69dd42.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>BCAA 6000 СПОРТАМИН®  90 табл. (144гр.)</name>
+				<vendorCode>4607055681053</vendorCode>
+				<description>SPORTAMIN® ВСАА 6000 -уникальный натуральный сбалансированный продукт для спортивного питания, не имеющий аналогов по своему составу, т.к. он сочетает в себе три ценнейших компонента: ВСАА, Аргинин и Floracia™. Вместе они оказывают синергический эффект, способный существенно минимизировать отрицательное воздействие на организм последствий тяжелых физических нагрузок.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681053</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681077" available="true">
+				<oldprice>1800</oldprice>
+				<price>1800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Аминокислотный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BCAA_550ml_200tabs.eac3cfaa65773652ce4b63785a69dd42.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>BCAA 6000 СПОРТАМИН®  200 табл. (320гр.) </name>
+				<vendorCode>4607055681077</vendorCode>
+				<description>SPORTAMIN® ВСАА 6000 -уникальный натуральный сбалансированный продукт для спортивного питания, не имеющий аналогов по своему составу, т.к. он сочетает в себе три ценнейших компонента: ВСАА, Аргинин и Floracia™. Вместе они оказывают синергический эффект, способный существенно минимизировать отрицательное воздействие на организм последствий тяжелых физических нагрузок.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681077</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681084" available="true">
+				<oldprice>1350</oldprice>
+				<price>1350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Аминокислотный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/TetrAmin_550ml_200tabl.103d9aa7e5edd73217c49afd85d0c055.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>TetrAmin®  200 табл. аминокислотный комплекс</name>
+				<vendorCode>4607055681084</vendorCode>
+				<description>TetrAmin® - уникальный аминокислотный комплекс, содержащий гидролизат концентрата белка молочной сыворотки и аминокислоты для восстановления организма после высоких физических нагрузок, роста мышечной массы и обеспечения организма необходимой энергией.
+Научно-обоснованный состав TetrAmin® обеспечивает эффективное усвоение входящих в него аминокислот (максимальное повышение уровня аминокислот в крови фиксируется уже через 10-15 минут после приема).</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681084</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681695" available="true">
+				<oldprice>850</oldprice>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Креатин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/fit-creatine.0881f9ef587f3927c026b3ff817ad77a.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Fit CREATINE 600 гр.</name>
+				<vendorCode>4607055681695</vendorCode>
+				<description>FIT CREATINE состоит из высококачественного креатина моногидрата.
+
+Предназначен  для увеличения работоспособности, мышечной массы и быстрого восстановления сил после интенсивных физических нагрузок.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681695</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681787" available="true">
+				<oldprice>1700</oldprice>
+				<price>1700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Аминокислотный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FF_FITBCAA_cherry.bbee1f3fd45310360614104e2170ad98.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>FiT ВСAА 500 грамм, вишня</name>
+				<vendorCode>4607055681787</vendorCode>
+				<description>FIT BCAA состоит из незаменимых аминокислот с разветвленной цепью L-лейцин, L-валин, L-изолейцин.
+
+Идеальный продукт для восполнения незаменимых аминокислот в рационе питания!</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681787</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681725" available="true">
+				<oldprice>1700</oldprice>
+				<price>1700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Аминокислотный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FF_FITBCAA_apple.bbee1f3fd45310360614104e2170ad98.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>FiT ВСAА 500 грамм, яблоко</name>
+				<vendorCode>4607055681725</vendorCode>
+				<description>FIT BCAA состоит из незаменимых аминокислот с разветвленной цепью L-лейцин, L-валин, L-изолейцин.
+
+Идеальный продукт для восполнения незаменимых аминокислот в рационе питания!</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681725</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681732" available="true">
+				<oldprice>1700</oldprice>
+				<price>1700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Аминокислотный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FF_FITBCAA_lemon.b45c4423d67df0106ee5f95f846c8e54.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>FiT ВСAА 500 грамм, лимон</name>
+				<vendorCode>4607055681732</vendorCode>
+				<description>FIT BCAA состоит из незаменимых аминокислот с разветвленной цепью L-лейцин, L-валин, L-изолейцин.
+
+Идеальный продукт для восполнения незаменимых аминокислот в рационе питания!</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681732</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681749" available="true">
+				<oldprice>1700</oldprice>
+				<price>1700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Аминокислотный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/SicilianOrange_site.5a6cc8fd713cfa8c60b7e7bdd659c850.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>FiT ВСAА 500 грамм, сицилийский апельсин</name>
+				<vendorCode>4607055681749</vendorCode>
+				<description>FIT BCAA состоит из незаменимых аминокислот с разветвленной цепью L-лейцин, L-валин, L-изолейцин.
+
+Идеальный продукт для восполнения незаменимых аминокислот в рационе питания!</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681749</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681848" available="true">
+				<oldprice>1150</oldprice>
+				<price>1150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Аминокислотный комплекс</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/Amino_Fit_55NEW_4.fb4a71c4996be1895a7e4ff47314733b.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>AminoFit</name>
+				<vendorCode>4607055681848</vendorCode>
+				<description>«AminoFit» - натуральный аминокислотный  комплекс  для восстановления мышечной ткани после физических нагрузок любой интенсивности, который  состоит  из гидролизатов животного и сывороточного белков, растворимых пищевых волокон и витамина B6 в оптимальном соотношении. Продукт обладает высоким  энергетическим и анаболическим действием, позволяя преодолевать тренировочный  стресс любого уровня.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681848</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681862" available="true">
+				<oldprice>1200</oldprice>
+				<price>1200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Нейростимулятор</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FF_TONUS%20%283%29.b45c4423d67df0106ee5f95f846c8e54.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Fit Tonus®</name>
+				<vendorCode>4607055681862</vendorCode>
+				<description>Разработанный для нормализации психофизического состояния и ускорения нейромышечной передачи у спортсменов при интенсивных физических нагрузках. Различные компоненты в составе продукта действуют комплексно, оказывая синергетический эффект. </description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681862</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681954" available="true">
+				<oldprice>3550</oldprice>
+				<price>3550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Protein_Clubnika.064327aaf8aac213cb8406301f41b316.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>SPORTEIN® Enriched Protein Клубника 2270 г.</name>
+				<vendorCode>4607055681954</vendorCode>
+				<description>SPORTEIN Enriched Protein - инновационная анаболическая формула для наращивания сухой мышечной массы и ускоренного восстановления, содержащая качественный ультрафильтрационный сывороточный белок, с повышенным содержанием максимально биодоступных сывороточных пептидов, уникальный витаминно-минеральный премикс, растворимые пребиотические волокна Floracia™, а также повышенное количество Аргинина и Глютамина.
+Полезные эффекты SPORTEIN® Enriched Protein: Быстрое и эффективное увеличение мышечной массы. Высококачественный сывороточный белок в комбинации с анаболическими факторами активно воздействуют на зоны роста мышечных клеток и позволяют Вашему организму быстро нарастить мышечную массу, максимально активизировать синтез мышечного белка и свести к минимуму распад мышечных тканей. SPORTEIN® эффективно воздействует на все группы мышц: скелетные мышцы, мышцы гладкой мускулатуры, сердечную мышцу. В итоге, Ваше тело приобретает идеальную форму, а мышцы становятся более упругими и эластичными.
+Повышение работоспособности и устойчивости к физическим нагрузкам. Регулярный прием SPORTEIN® позволит Вам увеличить объем и интенсивность физических нагрузок, повысить тонус организма и работоспособность. SPORTEIN® способствует более эффективному выполнению напряженных программ тренировки и оказывает общее стимулирующее влияние на организм, улучшает настроение, повышает уверенность в собственных силах, усиливает желание тренироваться.
+Укрепление иммунитета. Значительно повышает иммунный статус Вашего организма, укрепляет его устойчивость к неблагоприятным воздействиям окружающей среды, снижает риск возникновения инфекционных заболеваний.
+Увеличение взрывной силы мышц и силовой выносливости. Прием SPORTEIN® позволяет значительно повысить показатели при занятиях силовыми и игровыми видами спорта и тем самым создает основу для повышения спортивных результатов и достижения новых рекордов.
+Ускорение восстановления и снижение сроков адаптации к физическим нагрузкам. SPORTEIN® позволяет ускорить восстановительные процессы в организме после истощающих физических нагрузок, сократить период между тренировками, оптимизировать тренировочный процесс и повысить его эффективность. SPORTEIN® способствует нормализации как физического так и психоэмоционального состояния, предотвращает возникновения синдрома перетренированности, перенапряжения и переутомления.
+Оздоровление кишечника. SPORTEIN® оказывает выраженный пребиотический эффект на полезную микрофлору кишечника, улучшает функционирование желудочно-кишечного тракта и печени, обеспечивает детоксикации аммиака и других азотистых шлаков, образующихся при высокобелковой диете и в результате тяжелых физических нагрузок.
+Смешайте 1 мерную ложку продукта с 250 - 300 мл воды или обезжиренного молока. Принимайте 2 - 3 раза в день. Утром - во время завтрака, после физических нагрузок и за 2 - 3 часа перед сном. В дни отдыха принимайте 1-3 раза в день - утром, перед сном и в перерывах между приемами пищи. 
+</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681954</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681930" available="true">
+				<oldprice>3550</oldprice>
+				<price>3550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Protein_Vanil.091ca58c86fa1b4513f31b99fe350c92.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>SPORTEIN® Enriched Protein Ваниль 2270 г.</name>
+				<vendorCode>4607055681930</vendorCode>
+				<description>SPORTEIN Enriched Protein - инновационная анаболическая формула для наращивания сухой мышечной массы и ускоренного восстановления, содержащая качественный ультрафильтрационный сывороточный белок, с повышенным содержанием максимально биодоступных сывороточных пептидов,уникальный витаминно-минеральный премикс, растворимые пребиотические волокна Floracia™, а также повышенное количество Аргинина и Глютамина.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681930</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681978" available="true">
+				<oldprice>3550</oldprice>
+				<price>3550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Protein_Choko.67f51ea6943818a85545ca76c78c45c8.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>SPORTEIN® Enriched Protein Шоколад 2270 г.</name>
+				<vendorCode>4607055681978</vendorCode>
+				<description>SPORTEIN Enriched Protein - инновационная анаболическая формула для наращивания сухой мышечной массы и ускоренного восстановления, содержащая качественный ультрафильтрационный сывороточный белок, с повышенным содержанием максимально биодоступных сывороточных пептидов,уникальный витаминно-минеральный премикс, растворимые пребиотические волокна Floracia™, а также повышенное количество Аргинина и Глютамина.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681978</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681992" available="true">
+				<oldprice>3090</oldprice>
+				<price>3090</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Protein_vanil.4d0e037390653dd0bd6d80c9a19d1757.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Whey FitPROTEIN (2270 гр.) ваниль</name>
+				<vendorCode>4607055681992</vendorCode>
+				<description>«FIT WHEY PROTEIN» разработан специалистами в области спортивной нутрициологии для людей, занимающихся фитнесом и ведущих активный образ жизни. Точно сбалансированный состав включает в себя важнейшие анаболические факторы роста, комплементарное сочетание которых обеспечивает максимально оптимальные условия для регенерации и прогрессирования мышечной массы и силовых показателей.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681992</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055682005" available="true">
+				<oldprice>3090</oldprice>
+				<price>3090</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Protein_clubnika.e390d105da83615560c12d0a129c881a.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Whey FitPROTEIN (2270 гр.) клубника</name>
+				<vendorCode>4607055682005</vendorCode>
+				<description>«FIT WHEY PROTEIN» разработан специалистами в области спортивной нутрициологии для людей, занимающихся фитнесом и ведущих активный образ жизни. Точно сбалансированный состав включает в себя важнейшие анаболические факторы роста, комплементарное сочетание которых обеспечивает максимально оптимальные условия для регенерации и прогрессирования мышечной массы и силовых показателей.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055682005</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055682012" available="true">
+				<oldprice>3090</oldprice>
+				<price>3090</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Протеин</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Protein_chokolat.d409b787a214e09743c42cf76e655ed1.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Whey FitPROTEIN (2270 гр.) шоколад</name>
+				<vendorCode>4607055682012</vendorCode>
+				<description>«FIT WHEY PROTEIN» разработан специалистами в области спортивной нутрициологии для людей, занимающихся фитнесом и ведущих активный образ жизни. Точно сбалансированный состав включает в себя важнейшие анаболические факторы роста, комплементарное сочетание которых обеспечивает максимально оптимальные условия для регенерации и прогрессирования мышечной массы и силовых показателей.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055682012</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681879" available="true">
+				<oldprice>2620</oldprice>
+				<price>2620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Gainer_Vanil.45bf8b1bcaf950203f8ec7a6eafd727c.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ГЕЙНЕР SPORTEIN® GAINER (2500 г.) ваниль</name>
+				<vendorCode>4607055681879</vendorCode>
+				<description>SPORTEIN® GAINER - совершенная формула, которая включает в себя сбалансированный белковый комплекс, простые и сложные углеводы и специально разработанный витаминно-минеральный комплекс. Продукт также дополнительно обогащен глютамином, креатином, природным концентратом биологических стимуляторов - Колострум и пребиотическим волокном - Floracia™</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681879</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681893" available="true">
+				<oldprice>2620</oldprice>
+				<price>2620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Gainer_Klubnika.81347a6bb688bf25b980061d54d57dca.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ГЕЙНЕР SPORTEIN® GAINER (2500 г.) клубника</name>
+				<vendorCode>4607055681893</vendorCode>
+				<description>SPORTEIN® GAINER - совершенная формула, которая включает в себя сбалансированный белковый комплекс, простые и сложные углеводы и специально разработанный витаминно-минеральный комплекс. Продукт также дополнительно обогащен глютамином, креатином, природным концентратом биологических стимуляторов - Колострум и пребиотическим волокном - Floracia™</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681893</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055681916" available="true">
+				<oldprice>2620</oldprice>
+				<price>2620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/BANKA_Big_Black_Gainer_Choko.a74e34dc6f29a2a3f49bc1044218215d.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>ГЕЙНЕР SPORTEIN® GAINER (2500 г.) шоколад</name>
+				<vendorCode>4607055681916</vendorCode>
+				<description>SPORTEIN® GAINER - совершенная формула, которая включает в себя сбалансированный белковый комплекс, простые и сложные углеводы и специально разработанный витаминно-минеральный комплекс. Продукт также дополнительно обогащен глютамином, креатином, природным концентратом биологических стимуляторов - Колострум и пребиотическим волокном - Floracia™</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055681916</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055682029" available="true">
+				<oldprice>2120</oldprice>
+				<price>2120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Gainer_vanil%20%282%29.547272da5800ea3a138b71bc0774649d.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Fit Gainer (2500 г.) ваниль</name>
+				<vendorCode>4607055682029</vendorCode>
+				<description>«FIT GAINER» включает в себя сбалансированный белковый комплекс, углеводы с пищевыми волокнами (в сумме дающие быструю и долговременную энергию), креатин и папаин (фермент который улучшает усвояемость белка), а также специально разработанный витаминно-минеральный профиль, оптимизирующий энергетику, усвоение и обмен веществ.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055682029</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055682036" available="true">
+				<oldprice>2120</oldprice>
+				<price>2120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Gainer_clubnika.9514b65dfaabfe90bef27ca80e45aa16.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Fit Gainer (2500 г.) клубника</name>
+				<vendorCode>4607055682036</vendorCode>
+				<description>«FIT GAINER» включает в себя сбалансированный белковый комплекс, углеводы с пищевыми волокнами (в сумме дающие быструю и долговременную энергию), креатин и папаин (фермент который улучшает усвояемость белка), а также специально разработанный витаминно-минеральный профиль, оптимизирующий энергетику, усвоение и обмен веществ.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055682036</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+			<offer id="4607055682043" available="true">
+				<oldprice>2120</oldprice>
+				<price>2120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Гейнер</typePrefix>
+				<picture>https://ac-t.ru/assets/components/phpthumbof/cache/FIT_Gainer_chokolat.f3988a24592c3ef29c9baaf4d6a1b711.jpg</picture>
+				<instock>15</instock>
+				<vendor>АКАДЕМИЯ-Т</vendor>
+				<name>Fit Gainer (2500 г.) шоколад</name>
+				<vendorCode>4607055682043</vendorCode>
+				<description>«FIT GAINER» включает в себя сбалансированный белковый комплекс, углеводы с пищевыми волокнами (в сумме дающие быструю и долговременную энергию), креатин и папаин (фермент который улучшает усвояемость белка), а также специально разработанный витаминно-минеральный профиль, оптимизирующий энергетику, усвоение и обмен веществ.</description>
+				<manufacturer_warranty>АКАДЕМИЯ-Т</manufacturer_warranty>
+				<barcode>4607055682043</barcode>
+				<country_of_origin>Россия</country_of_origin>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
