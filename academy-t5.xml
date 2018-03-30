@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2018-03-30 20:05">
+<yml_catalog date="2018-03-30 21:05">
 	<shop>
 		<name>АКАДЕМИЯ-Т</name>
 		<company>АКАДЕМИЯ-Т ООО</company>
@@ -315,8 +315,8 @@ FIT BCAA подходит для применения как в трениров
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="4607055681251" available="true">
-				<oldprice>861</oldprice>
-				<price>861</price>
+				<oldprice>990</oldprice>
+				<price>990</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Защита суставов и связок</typePrefix>
